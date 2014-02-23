@@ -14,3 +14,5 @@ package-depends.dot
 pn-depends.dot
 task-depends.dot
 tags
+cache/*
+environment-*
