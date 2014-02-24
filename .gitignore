@@ -16,4 +16,4 @@ task-depends.dot
 tags
 cache/*
 environment-*
-buildhistory/*
+buildhistory
