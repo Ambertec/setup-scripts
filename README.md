@@ -19,5 +19,5 @@ https://github.com/Angstrom-distribution/setup-scripts
 
 ## More info
 
-Please read the Angstrom buildsystem [README](https://github.com/Ambertec/setup-scripts/blob/angstrom-v2013.12-yocto1.5/README)
+Please read the Angstrom buildsystem [README](README)
 
