@@ -1,0 +1,7 @@
+all:
+	bitbake ambertec-bft-api ambertec-bft-web ambertec-dtb -c cleanall -f
+	bitbake ambertec-bft-image
+	scp images/ambertec-bft.fw root@ambertec.local:
+	ssh root@ambertec.local -C "firmware_install ambertec-bft.fw ; /sbin/reboot"
+
+
