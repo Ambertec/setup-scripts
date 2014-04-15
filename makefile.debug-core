@@ -1,0 +1,7 @@
+all:
+	bitbake ambertec-dtb -c cleanall -f
+	bitbake ambertec-core-image
+	scp images/ambertec-core.fw root@ambertec.local:
+	ssh root@ambertec.local -C "/usr/sbin/firmware_install ambertec-core.fw && /sbin/reboot"
+
+
