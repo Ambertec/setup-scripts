@@ -26,5 +26,6 @@ meta-linaro,http://git.linaro.org/openembedded/meta-linaro.git,dora,HEAD
 #meta-dominion,git://github.com/koenkooi/meta-dominion.git,master,HEAD
 openembedded-core,git://github.com/Angstrom-distribution/oe-core.git,angstrom-staging-yocto1.5,HEAD
 #
+bitbake-npm,git://github.com/imyller/bitbake-npm.git,master,HEAD
 meta-nodejs,git://github.com/imyller/meta-nodejs.git,master,HEAD
 meta-ambertec,git@github.com:Ambertec/meta-ambertec.git,master,HEAD
