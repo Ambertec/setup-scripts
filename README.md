@@ -5,7 +5,7 @@ Ambertec / Angstrom buildsystem
 
 ```
 ./oebb.sh config beaglebone
-. environment-angstrom-v2013.12
+. environment-angstrom-v2014.06
 bitbake ambertec-core-image
 ```
 
