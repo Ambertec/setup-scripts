@@ -36,4 +36,4 @@ openembedded-core,git://github.com/openembedded/oe-core.git,daisy,HEAD
 bitbake-npm,git://github.com/imyller/bitbake-npm.git,master,HEAD
 meta-nodejs,git://github.com/imyller/meta-nodejs.git,master,HEAD
 #
-meta-ambertec,git@github.com:Ambertec/meta-ambertec.git,master,HEAD
+meta-ambertec,git@github.com:Ambertec/meta-ambertec.git,angstrom-v2014.06-yocto1.6,HEAD
