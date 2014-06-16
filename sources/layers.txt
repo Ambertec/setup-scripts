@@ -20,7 +20,7 @@ meta-ti,git://github.com/Angstrom-distribution/meta-ti.git,angstrom-staging-yoct
 #meta-browser,git://github.com/OSSystems/meta-browser.git,master,fc3969f63bda343c38c40a23f746c560c4735f3e
 #meta-mono,git://git.yoctoproject.org/meta-mono.git,master,ac286b1682e6bcc486ceb30ef90a936949bbfeab
 #meta-kde,git://gitorious.org/openembedded-core-layers/meta-kde.git,master,f45abfd4d87b0132a2565499392d2d49f465d847
-#meta-linaro,http://git.linaro.org/openembedded/meta-linaro.git,dora,HEAD
+meta-linaro,http://git.linaro.org/openembedded/meta-linaro.git,dora,HEAD
 #meta-minnow,git://git.yoctoproject.org/meta-minnow,dora,HEAD
 #meta-sunxi,git://github.com/linux-sunxi/meta-sunxi.git,master,f1e777d5526ea7c7a4f3a828b21d26c2c0650b83
 #meta-qt5,git://github.com/meta-qt5/meta-qt5,dora,HEAD
@@ -36,4 +36,4 @@ openembedded-core,git://github.com/Angstrom-distribution/oe-core.git,angstrom-st
 bitbake-npm,git://github.com/imyller/bitbake-npm.git,master,HEAD
 meta-nodejs,git://github.com/imyller/meta-nodejs.git,master,HEAD
 #
-meta-ambertec,git@github.com:Ambertec/meta-ambertec.git,master,HEAD
+meta-ambertec,git@github.com:Ambertec/meta-ambertec.git,angstrom-v2013.12-yocto1.5,HEAD
