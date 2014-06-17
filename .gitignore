@@ -15,5 +15,5 @@ pn-depends.dot
 task-depends.dot
 tags
 cache/*
-environment-*
+environment-angstrom-v*
 buildhistory
