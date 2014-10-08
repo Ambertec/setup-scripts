@@ -10,10 +10,9 @@ all : clean .build .deploy
 clean : .clean-$(device)
 
 .clean-bft :
-	bitbake ambertec-bft-api ambertec-bft-web ambertec-dtb -c cleanall -f
+	bitbake ambertec-bft-api ambertec-bft-web -c cleanall -f
 
 .clean-core :
-	bitbake ambertec-dtb -c cleanall -f
 
 build: .build
 
