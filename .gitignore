@@ -17,3 +17,6 @@ tags
 cache/*
 environment-angstrom-v*
 buildhistory
+downloads/*
+tmp-*/
+sstate-cache/
