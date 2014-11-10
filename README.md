@@ -5,7 +5,7 @@ Ambertec / Angstrom buildsystem
 
 ```
 ./oebb.sh config beaglebone
-. environment-angstrom-v2014.06
+. environment-angstrom
 bitbake ambertec-core-image
 ```
 
@@ -20,4 +20,3 @@ https://github.com/Angstrom-distribution/setup-scripts
 ## More info
 
 Please read the Angstrom buildsystem [README](README)
-
