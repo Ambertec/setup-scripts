@@ -4,7 +4,7 @@ meta-openembedded,git://github.com/openembedded/meta-oe.git,dizzy,HEAD
 meta-beagleboard,git://github.com/koenkooi/meta-beagleboard.git,master,HEAD
 meta-ti,git://git.yoctoproject.org/meta-ti,master,129783a9cba7902feb7f35d390b37d96b733a201
 meta-linaro,git://git.linaro.org/openembedded/meta-linaro.git,dizzy,HEAD
-openembedded-core,git://github.com/openembedded/oe-core.git,dizzy,HEAD
+openembedded-core,git://github.com/openembedded/oe-core.git,dizzy,a4296a49ada629bc21ab29e2c6860583e0b4be07
 bitbake-npm,git@github.com:imyller/bitbake-npm.git,angstrom-v2014.12-yocto1.7,HEAD
 meta-nodejs,git@github.com:imyller/meta-nodejs.git,master,HEAD
 meta-postgresql,git@github.com:imyller/meta-postgresql.git,master,HEAD
