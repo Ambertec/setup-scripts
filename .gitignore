@@ -20,3 +20,5 @@ buildhistory
 downloads/*
 tmp-*/
 sstate-cache/
+*.pem
+
