@@ -35,7 +35,7 @@ PROXYHOST=""
 OE_BASE=${PWD}
 # incremement this to force recreation of config files
 BASE_VERSION=9
-OE_ENV_FILE=environment-angstrom-v2014.12
+OE_ENV_FILE=environment-angstrom
 
 GITMAJOR="$(git --version | awk '{print $3}' | awk -F. '{print $1}')"
 GITMINOR="$(git --version | awk '{print $3}' | awk -F. '{print $2}')"
@@ -137,7 +137,7 @@ else
     # Specify the root directory for your OpenEmbedded development
     #--------------------------------------------------------------------------
     OE_BUILD_DIR=${OE_BASE}
-    OE_BUILD_TMPDIR="${OE_BUILD_DIR}/build/tmp-${DISTRO_DIRNAME}"
+    OE_BUILD_TMPDIR="${OE_BUILD_DIR}/build/tmp"
     OE_SOURCE_DIR=${OE_BASE}/sources
     OE_LAYERS_TXT="${OE_SOURCE_DIR}/layers.txt"
 
