@@ -9,4 +9,4 @@ openembedded-core,git://github.com/openembedded/oe-core.git,daisy,HEAD
 meta-nodejs,git://github.com/imyller/meta-nodejs.git,master,HEAD
 meta-postgresql,git://github.com/imyller/meta-postgresql.git,master,HEAD
 meta-btsync,git://github.com/imyller/meta-btsync.git,master,HEAD
-meta-ambertec,git@github.com:Ambertec/meta-ambertec.git,angstrom-v2014.06-yocto1.6,HEAD
+meta-ambertec,git@github.com:Ambertec/meta-ambertec.git,daisy,HEAD
