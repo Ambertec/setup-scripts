@@ -1,11 +1,11 @@
 bitbake,git://github.com/openembedded/bitbake.git,1.22,HEAD
+bitbake-npm,git://github.com/imyller/bitbake-npm.git,1.22,HEAD
 meta-angstrom,git://github.com/Angstrom-distribution/meta-angstrom,angstrom-v2014.06-yocto1.6,HEAD
 meta-openembedded,git://github.com/openembedded/meta-oe.git,daisy,HEAD
 meta-beagleboard,git://github.com/koenkooi/meta-beagleboard.git,master,ef7ce6fb4ea8e77efb0b6715bb572b33ba8194d9
 meta-ti,git://git.yoctoproject.org/meta-ti,master,3e4580f365bd49835b9d46cb1868ce6d997b02e1
 meta-linaro,git://git.linaro.org/openembedded/meta-linaro.git,daisy,HEAD
 openembedded-core,git://github.com/openembedded/oe-core.git,daisy,HEAD
-bitbake-npm,git://github.com/imyller/bitbake-npm.git,angstrom-v2014.06-yocto1.6,HEAD
 meta-nodejs,git://github.com/imyller/meta-nodejs.git,master,HEAD
 meta-postgresql,git://github.com/imyller/meta-postgresql.git,master,HEAD
 meta-btsync,git://github.com/imyller/meta-btsync.git,master,HEAD
