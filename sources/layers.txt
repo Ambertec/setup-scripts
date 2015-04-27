@@ -7,4 +7,4 @@ meta-ti,git://github.com/Angstrom-distribution/meta-ti.git,angstrom-staging-yoct
 meta-linaro,http://git.linaro.org/openembedded/meta-linaro.git,dora,HEAD
 openembedded-core,git://github.com/Angstrom-distribution/oe-core.git,angstrom-staging-yocto1.5,HEAD
 meta-nodejs,git://github.com/imyller/meta-nodejs.git,master,HEAD
-meta-ambertec,git@github.com:Ambertec/meta-ambertec.git,angstrom-v2013.12-yocto1.5,HEAD
+meta-ambertec,git@github.com:Ambertec/meta-ambertec.git,dora,HEAD
