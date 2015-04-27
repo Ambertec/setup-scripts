@@ -10,4 +10,4 @@ meta-nodejs,git@github.com:imyller/meta-nodejs.git,master,HEAD
 meta-iojs,git@github.com:imyller/meta-iojs.git,master,HEAD
 meta-postgresql,git@github.com:imyller/meta-postgresql.git,master,HEAD
 meta-btsync,git@github.com:imyller/meta-btsync.git,master,HEAD
-meta-ambertec,git@github.com:Ambertec/meta-ambertec.git,angstrom-v2014.12-yocto1.7,HEAD
+meta-ambertec,git@github.com:Ambertec/meta-ambertec.git,fido,HEAD
