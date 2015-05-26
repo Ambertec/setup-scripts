@@ -7,7 +7,6 @@ meta-ti,git://git.yoctoproject.org/meta-ti,master,9aac69cf99f5c71c51de62cba577fb
 meta-linaro,git://git.linaro.org/openembedded/meta-linaro.git,fido,HEAD
 openembedded-core,git://github.com/openembedded/oe-core.git,fido,HEAD
 meta-nodejs,git@github.com:imyller/meta-nodejs.git,master,HEAD
-meta-iojs,git@github.com:imyller/meta-iojs.git,master,HEAD
 meta-postgresql,git@github.com:imyller/meta-postgresql.git,master,HEAD
 meta-btsync,git@github.com:imyller/meta-btsync.git,master,HEAD
 meta-ambertec,git@github.com:Ambertec/meta-ambertec.git,fido,HEAD
