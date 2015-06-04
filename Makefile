@@ -5,9 +5,11 @@
 DEVICE ?= bft
 HOST ?= ambertec.local
 
-all : update clean .build .deploy
+all : update clean build deploy
 
-clean : .clean-$(DEVICE)
+clean : .clean .clean-$(DEVICE)
+
+.clean :
 
 .clean-bft :
 	bitbake ambertec-bft-api ambertec-bft-web -c cleanall -f
