@@ -12,7 +12,6 @@ clean : .clean .clean-$(DEVICE)
 .clean :
 
 .clean-bft :
-	bitbake ambertec-bft-api ambertec-bft-web -c cleanall -f
 
 .clean-core :
 
