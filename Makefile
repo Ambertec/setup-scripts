@@ -13,6 +13,8 @@ clean : .clean .clean-$(DEVICE)
 
 .clean-bft :
 
+.clean-vhusb :
+
 .clean-core :
 
 build: .build
