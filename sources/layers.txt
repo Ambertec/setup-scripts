@@ -5,7 +5,7 @@ meta-openembedded,git://github.com/openembedded/meta-openembedded,fido,HEAD
 meta-beagleboard,git://github.com/koenkooi/meta-beagleboard.git,master,e8505570c5bc788ca0be0bff1ddeaf31bf185b68
 meta-ti,git://git.yoctoproject.org/meta-ti,master,9aac69cf99f5c71c51de62cba577fbd817152f42
 meta-linaro,git://git.linaro.org/openembedded/meta-linaro.git,fido,HEAD
-openembedded-core,git://github.com/openembedded/oe-core.git,fido,HEAD
+openembedded-core,git://github.com/openembedded/openembedded-core.git,fido,HEAD
 meta-nodejs,git@github.com:imyller/meta-nodejs.git,master,facad22f3c313401b9e5c3352f3fe3677a71ee1d
 meta-postgresql,git@github.com:imyller/meta-postgresql.git,master,HEAD
 meta-btsync,git@github.com:imyller/meta-btsync.git,master,HEAD
